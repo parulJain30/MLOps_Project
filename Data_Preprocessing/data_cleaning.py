@@ -1,1 +1,1 @@
-print("Let's clean")
+print("Let's clean this code.")
